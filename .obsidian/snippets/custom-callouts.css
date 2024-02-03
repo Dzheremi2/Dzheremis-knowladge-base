@@ -1,0 +1,11 @@
+/* test */
+
+.callout[data-callout='reqv'] {
+    --callout-color: 124, 252, 1;
+    --callout-icon: lucide-hammer;
+}
+
+.callout[data-callout='imprt'] {
+    --callout-color: 171, 39, 79;
+    --callout-icon: lucide-alert-octagon; 
+}

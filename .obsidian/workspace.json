@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "cfaf4e974d4b29db",
+    "type": "split",
+    "children": [
+      {
+        "id": "546f7cbb3d127717",
+        "type": "tabs",
+        "dimension": 63.714637146371466,
+        "children": [
+          {
+            "id": "487a191e38c7f3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QOS/QOS Usage&basics/Apps.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1dcba47968b1bd8",
+        "type": "tabs",
+        "dimension": 36.28536285362854,
+        "children": [
+          {
+            "id": "d1d809e6f2b360d1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "QOS/QOS Usage&basics/Apps.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6498178067505822,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd88ddb7c08c87fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fbd63bec2c6562c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd54c3f0def2df88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d24a5b81f10c16d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97c30a3c737734e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "15c3ad4303a8c8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0a12d39a7b977ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19faeba8b1d365fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QOS/QOS Usage&basics/Apps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d1e5eb87b18c9c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QOS/QOS Usage&basics/Apps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26fff42e62293138",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be0421c213abeaa6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QOS/QOS Usage&basics/Apps.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "487a191e38c7f3ce",
+  "lastOpenFiles": [
+    "QOS/QOS Core&basics/System bootloading process.md",
+    "QOS/QOS Usage&basics/Packages.md",
+    "QOS/QOS Usage&basics/Apps.md",
+    "QOS/QOS Usage&basics/Registry.md",
+    "QOS/QOS Usage&basics/Daemons.md",
+    "QOS/QOS Usage&basics/Components.md",
+    "QOS/QOS Usage&basics/Libs.md",
+    "QOS/QOS Core&basics/QRoot.md",
+    "QOS/QOS Core&basics/Filesystem Hierarchy.md",
+    "QOS/QOS Usage&basics",
+    "QOS/QOS Core&basics/Binary mode.md",
+    "QOS/QOS Core&basics/PCCtrl.md",
+    "QOS/QOS Core&basics/Diskpart.md",
+    "QOS/QOS Core&basics/QFS.md",
+    "QOS/QOS Core&basics/ESFS.md",
+    "QOS/QOS Core&basics/QTK.md",
+    "QOS/QOS Core&basics/Derivatives.md",
+    "QOS/QOS Core&basics/QOS⚛️.md",
+    "QOS/QBits.md",
+    "QOS/QOS Core&basics/rootBIN.md",
+    "QOS/QOS Core&basics/QBits.md",
+    "QOS/QOS Core&basics/Nodes.md",
+    "QOS/QOS Core&basics/ESFS.Q.md",
+    "QOS/QOS Core&basics/DPU(Data processing unit).md",
+    "QOS/QOS Core&basics/ALR.md",
+    "QOS/QOS Core&basics",
+    "QOS/ESFS.Q.md",
+    "QOS/System bootloading process.md",
+    "Href/qbit.png~",
+    "Href/qbit.png",
+    "Href/Вставленное изображение.png",
+    "Href/Pasted image 20240201195033.png",
+    "EGE/Inf",
+    "EGE",
+    "Href/interface.objq",
+    "QOS",
+    "Href/Pasted image 20240120134859.jpg",
+    "Href/Pasted image 20240120133813.png",
+    "Href/Pasted image 20240120133607.png",
+    "Href/vivaldi.repo",
+    "Fedora Linux",
+    "Href/Fedora.svg",
+    "Вставленное изображение.png",
+    "Href"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "Href",
+  "attachmentFolderPath": "Href",
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "useMarkdownLinks": true
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#3584e4",
+  "cssTheme": "Adwaita",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Google Sans",
+  "enabledCssSnippets": [
+    "custom-callouts"
+  ],
+  "baseFontSize": 16
+}
