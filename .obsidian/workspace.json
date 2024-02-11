@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "546f7cbb3d127717",
+        "id": "f1dcba47968b1bd8",
         "type": "tabs",
-        "dimension": 63.714637146371466,
+        "dimension": 62.73062730627307,
         "children": [
           {
-            "id": "487a191e38c7f3ce",
+            "id": "b87ce1026d0da5f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QOS/QOS Usage&basics/Apps.md",
-                "mode": "source",
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -23,9 +23,9 @@
         ]
       },
       {
-        "id": "f1dcba47968b1bd8",
+        "id": "6c5f45e6bc9ad9d9",
         "type": "tabs",
-        "dimension": 36.28536285362854,
+        "dimension": 37.269372693726936,
         "children": [
           {
             "id": "d1d809e6f2b360d1",
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "QOS/QOS Usage&basics/Apps.md",
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -56,7 +56,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6498178067505822,
+                  "scale": 0.9616414141342452,
                   "close": true
                 }
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QOS/QOS Usage&basics/Apps.md",
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QOS/QOS Usage&basics/Apps.md",
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QOS/QOS Usage&basics/Apps.md"
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md"
               }
             }
           }
@@ -190,16 +190,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "487a191e38c7f3ce",
+  "active": "b87ce1026d0da5f0",
   "lastOpenFiles": [
-    "QOS/QOS Core&basics/System bootloading process.md",
+    "QOS/QOS Usage&basics/Libs.md",
+    "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
+    "QOS/QOS Core&basics/QRoot.md",
+    "QOS/QOS Core&basics/ESFS.Q.md",
     "QOS/QOS Usage&basics/Packages.md",
+    "QOS/QOS Core&basics/System bootloading process.md",
     "QOS/QOS Usage&basics/Apps.md",
     "QOS/QOS Usage&basics/Registry.md",
     "QOS/QOS Usage&basics/Daemons.md",
     "QOS/QOS Usage&basics/Components.md",
-    "QOS/QOS Usage&basics/Libs.md",
-    "QOS/QOS Core&basics/QRoot.md",
     "QOS/QOS Core&basics/Filesystem Hierarchy.md",
     "QOS/QOS Usage&basics",
     "QOS/QOS Core&basics/Binary mode.md",
@@ -214,12 +216,10 @@
     "QOS/QOS Core&basics/rootBIN.md",
     "QOS/QOS Core&basics/QBits.md",
     "QOS/QOS Core&basics/Nodes.md",
-    "QOS/QOS Core&basics/ESFS.Q.md",
     "QOS/QOS Core&basics/DPU(Data processing unit).md",
     "QOS/QOS Core&basics/ALR.md",
     "QOS/QOS Core&basics",
     "QOS/ESFS.Q.md",
-    "QOS/System bootloading process.md",
     "Href/qbit.png~",
     "Href/qbit.png",
     "Href/Вставленное изображение.png",
