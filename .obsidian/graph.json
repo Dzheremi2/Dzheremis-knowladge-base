@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"QOS/QOS Core&basics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "path:\"QOS/QOS Usage&basics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9495916
+      }
+    },
+    {
+      "query": "path:\"Fedora Linux\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14368061
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

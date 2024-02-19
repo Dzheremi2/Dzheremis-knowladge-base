@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "723c9202a0c8b9fe",
-        "type": "tabs",
-        "dimension": 64.88314883148831,
-        "children": [
-          {
-            "id": "4ec11402b8b98433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QOS/QOS Core&basics/Derivatives.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "62345a9073e94843",
         "type": "tabs",
-        "dimension": 35.11685116851169,
         "children": [
           {
             "id": "d1d809e6f2b360d1",
@@ -33,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "QOS/QOS Core&basics/Derivatives.md",
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -61,8 +41,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "d672c060de96c3bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QOS/QOS Core&basics/Derivatives.md",
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QOS/QOS Core&basics/Derivatives.md",
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QOS/QOS Core&basics/Derivatives.md"
+                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md"
               }
             }
           }
@@ -190,11 +179,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4ec11402b8b98433",
+  "active": "d672c060de96c3bb",
   "lastOpenFiles": [
-    "EGE/Inf/№13.md",
-    "QOS/QOS Core&basics/Bit Registry.md",
     "QOS/QOS Core&basics/Derivatives.md",
+    "QOS/QOS Core&basics/Bit Registry.md",
+    "EGE/Inf/№13.md",
     "QOS/QOS Usage&basics/Registry.md",
     "QOS/QOS Usage&basics/Libs.md",
     "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
