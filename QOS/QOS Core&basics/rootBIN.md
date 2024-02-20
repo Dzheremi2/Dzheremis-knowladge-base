@@ -23,12 +23,3 @@ sys --> qb -.-> qbits["QBit's binary files(store internal QBit metadata)"]
 
 class QRoot,alr internal-link;
 ```
-
-### rootBIN reserved space
-```mermaid
-pie title QBit metadata reserved size
-
-"QBits metadata" : 4
-"Core in /sys/core" : 80
-"Snapshots in /internal" : 16
-```

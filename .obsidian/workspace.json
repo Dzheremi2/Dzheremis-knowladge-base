@@ -4,54 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "62345a9073e94843",
+        "id": "d0d6a084b7cbac92",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d809e6f2b360d1",
+            "id": "3a8e60fc7c524e1c",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.9487317827359937,
-                  "close": true
-                }
+                "file": "QOS/QOS Usage&basics/BApp.md",
+                "mode": "preview",
+                "source": true
               }
             }
-          },
-          {
-            "id": "d672c060de96c3bb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
+                "file": "QOS/QOS Usage&basics/BApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
+                "file": "QOS/QOS Usage&basics/BApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QOS/QOS Usage&basics/OBJQcomp complete guide.md"
+                "file": "QOS/QOS Usage&basics/BApp.md"
               }
             }
           }
@@ -179,14 +147,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d672c060de96c3bb",
+  "active": "3a8e60fc7c524e1c",
   "lastOpenFiles": [
+    "QOS/QOS Usage&basics/appx.md",
+    "QOS/QOS Core&basics/rootBIN.md",
+    "QOS/QOS Usage&basics/BApp.md",
+    "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
     "QOS/QOS Core&basics/Derivatives.md",
     "QOS/QOS Core&basics/Bit Registry.md",
     "EGE/Inf/№13.md",
     "QOS/QOS Usage&basics/Registry.md",
     "QOS/QOS Usage&basics/Libs.md",
-    "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
     "QOS/QOS Core&basics/QRoot.md",
     "QOS/QOS Core&basics/ESFS.Q.md",
     "QOS/QOS Usage&basics/Packages.md",
@@ -204,10 +175,7 @@
     "QOS/QOS Core&basics/QTK.md",
     "QOS/QOS Core&basics/QOS⚛️.md",
     "QOS/QBits.md",
-    "QOS/QOS Core&basics/rootBIN.md",
     "QOS/QOS Core&basics/QBits.md",
-    "QOS/QOS Core&basics/Nodes.md",
-    "QOS/QOS Core&basics/DPU(Data processing unit).md",
     "QOS/QOS Core&basics",
     "Href/qbit.png~",
     "Href/qbit.png",
