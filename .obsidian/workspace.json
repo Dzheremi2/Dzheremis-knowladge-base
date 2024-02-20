@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d6a084b7cbac92",
+        "id": "275266c5aa3b1094",
         "type": "tabs",
         "children": [
           {
-            "id": "3a8e60fc7c524e1c",
+            "id": "7fbc4d1a2b933227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "QOS/QOS Usage&basics/BApp.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -147,7 +147,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3a8e60fc7c524e1c",
+  "active": "7fbc4d1a2b933227",
   "lastOpenFiles": [
     "QOS/QOS Usage&basics/appx.md",
     "QOS/QOS Core&basics/rootBIN.md",

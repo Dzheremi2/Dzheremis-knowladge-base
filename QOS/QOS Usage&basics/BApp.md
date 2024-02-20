@@ -23,7 +23,7 @@ BApp is declared as "Build App"
 ## How to use BApp
 >[!Reqv] Installation
 >BApp is not provided by appx, so you need to download and [compile](OBJQcomp%20complete%20guide) it by yourself.
->1. Go to https://bapp.org/download/ and download the installation archive
+>1. Go to https://bapp-qos.org/download/ and download the installation archive
 >2. Unpack this archive by GUI utilities or by command line
 >`unpack -zip <name_of_downloaded_archive>`
 >3. Go to `bapp` directory
