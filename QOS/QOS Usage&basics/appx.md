@@ -1,5 +1,5 @@
 appx - default [QOS](QOS⚛️.md)'s package manager which is build-in to [QTK](QTK.md).
-appx managing all system's packages and used in the system update process, by this reason, you cannot remove appx at all, you can remove only user-side `appx` utility, but you cannot do that for appxInstallD, appxRemoveD, appxUpdateD, appxSysUpdD, because these packages declared as impossible dependencies of [QTK](QTK.md) 
+appx managing all system's packages and used in the system update process, by this reason, you cannot remove appx at all, you can remove only user-side `appx` utility, but you cannot do that for appxInstallD, appxRemoveD, appxUpdateD, appxSysUpdD, because these packages declared as impossible dependencies of QTK
 
 appx has appxHandler process running in [QRoot](QRoot.md) not [rootBIN](rootBIN.md) in background for determining if packages has available updates and automatically download them
 >[!NOTE]
