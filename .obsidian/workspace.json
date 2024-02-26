@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de2d1fcb2a52f153",
+        "id": "dde74f6f3d5253b4",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad4965c842cd103",
+            "id": "4ec51e5c8182ac80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QOS/QOS Usage&basics/Clear QOS installation.md",
+                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QOS/QOS Usage&basics/Clear QOS installation.md",
+                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QOS/QOS Usage&basics/Clear QOS installation.md",
+                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QOS/QOS Usage&basics/Clear QOS installation.md"
+                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md"
               }
             }
           }
@@ -147,8 +147,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0ad4965c842cd103",
+  "active": "4ec51e5c8182ac80",
   "lastOpenFiles": [
+    "Href/Pasted image 20240226215931.png",
+    "EGE/Inf/13/Кол-во единиц в двоичной записи адреса не кратно 2м.md",
+    "EGE/Inf/8/Пятизначные девятеричные числа.md",
+    "EGE/Inf/8",
+    "Href/1Снимок экрана 2024-02-26 140514.png",
+    "Href/2Снимок экрана 2024-02-26 140514.png",
+    "Href/Снимок экрана 2024-02-26 140514.png",
+    "EGE/Inf/13",
+    "EGE/Inf/№13.md",
     "QOS/QOS Usage&basics/appx.md",
     "QOS/QOS Usage&basics/Clear QOS installation.md",
     "QOS/QOS Usage&basics/BApp.md",
@@ -156,7 +165,6 @@
     "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
     "QOS/QOS Core&basics/Derivatives.md",
     "QOS/QOS Core&basics/Bit Registry.md",
-    "EGE/Inf/№13.md",
     "QOS/QOS Usage&basics/Registry.md",
     "QOS/QOS Usage&basics/Libs.md",
     "QOS/QOS Core&basics/QRoot.md",
@@ -173,9 +181,6 @@
     "QOS/QOS Core&basics/Diskpart.md",
     "QOS/QOS Core&basics/QFS.md",
     "QOS/QOS Core&basics/ESFS.md",
-    "QOS/QOS Core&basics/QTK.md",
-    "QOS/QOS Core&basics/QOS⚛️.md",
-    "QOS/QBits.md",
     "QOS/QOS Core&basics",
     "Href/qbit.png~",
     "Href/qbit.png",
@@ -189,9 +194,6 @@
     "Href/Pasted image 20240120133813.png",
     "Href/Pasted image 20240120133607.png",
     "Href/vivaldi.repo",
-    "Fedora Linux",
-    "Href/Fedora.svg",
-    "Вставленное изображение.png",
-    "Href"
+    "Href/Fedora.svg"
   ]
 }
