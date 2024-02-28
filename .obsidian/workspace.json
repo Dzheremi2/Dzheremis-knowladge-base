@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dde74f6f3d5253b4",
+        "id": "f97c400fdad0cc2e",
         "type": "tabs",
         "children": [
           {
-            "id": "4ec51e5c8182ac80",
+            "id": "30e0747de0b40baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md",
+                "file": "EGE/Inf/15/Побитовая конъюнкция.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md",
+                "file": "EGE/Inf/15/Побитовая конъюнкция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md",
+                "file": "EGE/Inf/15/Побитовая конъюнкция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EGE/Inf/8/Пятизначные девятеричные числа.md"
+                "file": "EGE/Inf/15/Побитовая конъюнкция.md"
               }
             }
           }
@@ -147,11 +147,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4ec51e5c8182ac80",
+  "active": "30e0747de0b40baf",
   "lastOpenFiles": [
+    "Href/Pasted image 20240228123522.png",
+    "EGE/Inf/14/Ненулевые цифры в девятеричной записи числа.md",
+    "EGE/Inf/15/Побитовая конъюнкция.md",
+    "EGE/Inf/15",
+    "Href/Pasted image 20240228115638.png",
+    "EGE/Inf/8/Пятизначные девятеричные числа.md",
+    "EGE/Inf/14",
+    "EGE/Inf/Без названия.md",
     "Href/Pasted image 20240226215931.png",
     "EGE/Inf/13/Кол-во единиц в двоичной записи адреса не кратно 2м.md",
-    "EGE/Inf/8/Пятизначные девятеричные числа.md",
     "EGE/Inf/8",
     "Href/1Снимок экрана 2024-02-26 140514.png",
     "Href/2Снимок экрана 2024-02-26 140514.png",
@@ -178,9 +185,6 @@
     "QOS/QOS Usage&basics",
     "QOS/QOS Core&basics/Binary mode.md",
     "QOS/QOS Core&basics/PCCtrl.md",
-    "QOS/QOS Core&basics/Diskpart.md",
-    "QOS/QOS Core&basics/QFS.md",
-    "QOS/QOS Core&basics/ESFS.md",
     "QOS/QOS Core&basics",
     "Href/qbit.png~",
     "Href/qbit.png",
@@ -189,11 +193,7 @@
     "EGE/Inf",
     "EGE",
     "Href/interface.objq",
-    "QOS",
     "Href/Pasted image 20240120134859.jpg",
-    "Href/Pasted image 20240120133813.png",
-    "Href/Pasted image 20240120133607.png",
-    "Href/vivaldi.repo",
-    "Href/Fedora.svg"
+    "Href/Pasted image 20240120133813.png"
   ]
 }
