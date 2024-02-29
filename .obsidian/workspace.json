@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f97c400fdad0cc2e",
+        "id": "229ce6b423864653",
         "type": "tabs",
         "children": [
           {
-            "id": "30e0747de0b40baf",
+            "id": "2486ef57386cf0c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EGE/Inf/15/Побитовая конъюнкция.md",
+                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EGE/Inf/15/Побитовая конъюнкция.md",
+                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EGE/Inf/15/Побитовая конъюнкция.md",
+                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EGE/Inf/15/Побитовая конъюнкция.md"
+                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md"
               }
             }
           }
@@ -147,14 +147,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "30e0747de0b40baf",
+  "active": "2486ef57386cf0c6",
   "lastOpenFiles": [
+    "Href/Pasted image 20240229150513.png",
+    "EGE/Inf/25/Поиск совпадений по маске by Yandex.md",
+    "EGE/Inf/25/Поиск совпадений по маске 7345.md",
+    "QOS/QOS Usage&basics/Clear QOS installation.md",
+    "Href/Pasted image 20240229135714.png",
+    "EGE/Inf/25/Поиск совпадений по маске.md",
+    "EGE/Inf/8/Пятизначные девятеричные числа.md",
+    "Href/Pasted image 20240229110642.png",
+    "EGE/Inf/25",
     "Href/Pasted image 20240228123522.png",
     "EGE/Inf/14/Ненулевые цифры в девятеричной записи числа.md",
     "EGE/Inf/15/Побитовая конъюнкция.md",
     "EGE/Inf/15",
     "Href/Pasted image 20240228115638.png",
-    "EGE/Inf/8/Пятизначные девятеричные числа.md",
     "EGE/Inf/14",
     "EGE/Inf/Без названия.md",
     "Href/Pasted image 20240226215931.png",
@@ -166,7 +174,6 @@
     "EGE/Inf/13",
     "EGE/Inf/№13.md",
     "QOS/QOS Usage&basics/appx.md",
-    "QOS/QOS Usage&basics/Clear QOS installation.md",
     "QOS/QOS Usage&basics/BApp.md",
     "QOS/QOS Core&basics/rootBIN.md",
     "QOS/QOS Usage&basics/OBJQcomp complete guide.md",
@@ -181,19 +188,12 @@
     "QOS/QOS Usage&basics/Apps.md",
     "QOS/QOS Usage&basics/Daemons.md",
     "QOS/QOS Usage&basics/Components.md",
-    "QOS/QOS Core&basics/Filesystem Hierarchy.md",
     "QOS/QOS Usage&basics",
-    "QOS/QOS Core&basics/Binary mode.md",
-    "QOS/QOS Core&basics/PCCtrl.md",
     "QOS/QOS Core&basics",
     "Href/qbit.png~",
     "Href/qbit.png",
     "Href/Вставленное изображение.png",
-    "Href/Pasted image 20240201195033.png",
     "EGE/Inf",
-    "EGE",
-    "Href/interface.objq",
-    "Href/Pasted image 20240120134859.jpg",
-    "Href/Pasted image 20240120133813.png"
+    "EGE"
   ]
 }
