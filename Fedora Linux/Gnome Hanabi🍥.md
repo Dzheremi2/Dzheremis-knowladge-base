@@ -35,6 +35,7 @@ Hanabi extension can utilize ```calppersink``` from *[Clapper](https://github.co
 >>```shell
 >>sudo dnf install clapper
 >>```
-
-
-
+---
+tags:
+#customization 
+---

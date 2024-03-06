@@ -6,3 +6,8 @@
 
 >[!NOTE] Note
 >This acticle may be outdated, because after first time i've fixed it, it never brokes again
+
+---
+tags:
+#fixes
+---

@@ -15,4 +15,7 @@ Installation for Flatpak apps
 > [!reqv]
 > For **easier** theme applying you should install ***gnome-tweaks*** with command
 > >```sudo dnf install gnome-tweaks```
-
+---
+tags:
+#customization 
+---

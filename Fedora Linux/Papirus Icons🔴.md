@@ -44,3 +44,7 @@ To apply these themes you need to execute some commands in Terminal
 ![](Pasted%20image%2020240120134859.jpg)
 
 
+---
+tags:
+#customization
+---

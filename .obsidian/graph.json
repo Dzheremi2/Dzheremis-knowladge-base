@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"QOS/QOS Core&basics\"  ",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14368061
       }
+    },
+    {
+      "query": "path:EGE/Inf  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8795038966951858,
+  "scale": 0.8502830004171932,
   "close": true
 }

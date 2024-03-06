@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "229ce6b423864653",
+        "id": "ba4c44c745ffdf24",
         "type": "tabs",
         "children": [
           {
-            "id": "2486ef57386cf0c6",
+            "id": "6a5d07f34a515c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md",
+                "file": "EGE/Inf/25/Поиск совпадений по маске.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md",
+                "file": "EGE/Inf/25/Поиск совпадений по маске.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md",
+                "file": "EGE/Inf/25/Поиск совпадений по маске.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EGE/Inf/25/Поиск совпадений по маске 7345.md"
+                "file": "EGE/Inf/25/Поиск совпадений по маске.md"
               }
             }
           }
@@ -147,14 +147,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2486ef57386cf0c6",
+  "active": "6a5d07f34a515c08",
   "lastOpenFiles": [
-    "Href/Pasted image 20240229150513.png",
-    "EGE/Inf/25/Поиск совпадений по маске by Yandex.md",
+    "EGE/Inf/25/Поиск делителей числа удовл условию.md",
+    "EGE/Inf/25/Поиск совпадений по маске.md",
     "EGE/Inf/25/Поиск совпадений по маске 7345.md",
+    "EGE/Inf/25/Поиск совпадений по маске by Yandex.md",
+    "EGE/Inf/25/Шаблоны для 25 вариация 2.md",
+    "Fedora Linux/Change default $HOME directories.md",
+    "Fedora Linux/Crontab - autostart everything.md",
+    "Fedora Linux/Fix GUI lag in Vivaldi caused by llvm-libs package.md",
+    "Fedora Linux/Language switch on Shift + Alt on Wayland.md",
+    "Fedora Linux/adw-gtk3-theme🟩.md",
+    "Fedora Linux/Gnome Hanabi🍥.md",
+    "Fedora Linux/Papirus Icons🔴.md",
+    "Href/Pasted image 20240306121720.png",
+    "Href/Pasted image 20240306121712.png",
+    "Href/Pasted image 20240229150513.png",
     "QOS/QOS Usage&basics/Clear QOS installation.md",
     "Href/Pasted image 20240229135714.png",
-    "EGE/Inf/25/Поиск совпадений по маске.md",
     "EGE/Inf/8/Пятизначные девятеричные числа.md",
     "Href/Pasted image 20240229110642.png",
     "EGE/Inf/25",
@@ -170,7 +181,6 @@
     "EGE/Inf/8",
     "Href/1Снимок экрана 2024-02-26 140514.png",
     "Href/2Снимок экрана 2024-02-26 140514.png",
-    "Href/Снимок экрана 2024-02-26 140514.png",
     "EGE/Inf/13",
     "EGE/Inf/№13.md",
     "QOS/QOS Usage&basics/appx.md",
@@ -180,19 +190,9 @@
     "QOS/QOS Core&basics/Derivatives.md",
     "QOS/QOS Core&basics/Bit Registry.md",
     "QOS/QOS Usage&basics/Registry.md",
-    "QOS/QOS Usage&basics/Libs.md",
-    "QOS/QOS Core&basics/QRoot.md",
-    "QOS/QOS Core&basics/ESFS.Q.md",
-    "QOS/QOS Usage&basics/Packages.md",
-    "QOS/QOS Core&basics/System bootloading process.md",
-    "QOS/QOS Usage&basics/Apps.md",
-    "QOS/QOS Usage&basics/Daemons.md",
-    "QOS/QOS Usage&basics/Components.md",
     "QOS/QOS Usage&basics",
     "QOS/QOS Core&basics",
     "Href/qbit.png~",
-    "Href/qbit.png",
-    "Href/Вставленное изображение.png",
     "EGE/Inf",
     "EGE"
   ]
